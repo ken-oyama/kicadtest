@@ -2288,7 +2288,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74AHC04")
-		(at 167.64 148.59 0)
+		(at 167.64 158.75 0)
 		(unit 5)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2299,7 +2299,7 @@
 		(fields_autoplaced yes)
 		(uuid "393b0f1b-ccff-42ad-87c4-450f05657aab")
 		(property "Reference" "U3"
-			(at 167.64 139.7 0)
+			(at 167.64 149.86 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2309,7 +2309,7 @@
 			)
 		)
 		(property "Value" "74AHC04"
-			(at 167.64 142.24 0)
+			(at 167.64 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2319,7 +2319,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 167.64 148.59 0)
+			(at 167.64 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2330,7 +2330,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT04.pdf"
-			(at 167.64 148.59 0)
+			(at 167.64 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2341,7 +2341,7 @@
 			)
 		)
 		(property "Description" "Hex Inverter"
-			(at 167.64 148.59 0)
+			(at 167.64 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
